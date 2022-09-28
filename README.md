@@ -6,7 +6,7 @@
 
 Projeto construído durante o evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://nlw-esports-fabricio.netlify.app/)
+[🔗 Clique aqui para acessar](https://nlw-esports-a6y1.vercel.app/)
 
 ## 🛠️ Tecnologias Utilizadas
 
